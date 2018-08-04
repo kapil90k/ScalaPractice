@@ -1,0 +1,28 @@
+CREATE KEYSPACE demodb WITH REPLICATION = { 'class' : 'NetworkTopologyStrategy', 'datacenter1' : 3 };
+
+use demodb;&()'%$
+
+CREATE TABLE users (
+user_name varchar,
+password varchar,
+gender varchar,
+session_token varchar,
+state varchar,
+birth_year bigint,
+PRIMARY KEY (user_name));
+
+CREATE TABLE emp (
+empID int,
+deptID int,
+first_name varchar,
+last_name varchar,
+PRIMARY KEY (empID, deptID));
+
+INSERT INTO emp (empID, deptID, first_name, last_name)
+VALUES (104, 15, 'jane', 'smith');
+
+select * from emp;
+
+show host
+cqlsh 127.0.0.1(change in rpc)
+

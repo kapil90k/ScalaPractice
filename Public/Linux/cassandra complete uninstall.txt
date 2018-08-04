@@ -1,0 +1,40 @@
+Cassnadra (Datatrax) Complete Reinstall - CentOS
+
+Install Cassandra using Datatrax :
+
+Check which version of Java is installed by running the following command:
+$ java -version
+Use the latest version of Oracle Java 7 on all nodes.
+Add the DataStax Community repository to the /etc/yum.repos.d/datastax.repo:
+[datastax] 
+name = DataStax Repo for Apache Cassandra
+baseurl = http://rpm.datastax.com/community
+enabled = 1
+gpgcheck = 0
+Install the packages:
+$ sudo yum install dsc20
+based on DataTrax instruction. It works.
+
+
+Uninstall and reinstall Cassandra
+However simply using yum remove dsc20 will not uninstall Cassandra. Here is what needs to be done.
+
+ 1 yum remove dsc20
+
+2. find what rpm cassandra package is installed
+
+rpm -qa | grep cassandra
+cassandra20-2.0.6-1.noarch
+
+3. rpm -e cassandra20-2.0.6-1.noarch
+
+4. Remove all cassandra directories:
+
+# rm -rf /var/lib/cassandra
+# rm -rf /var/log/cassandra
+# rm -rf /etc/cassandra
+
+
+5. yum install dsc20
+
+Now, fresh cassandra is reinstalled

@@ -1,0 +1,5 @@
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo C:/Users/Sonu/AppData/Local/Temp/sbt-structure.xml; session clear-all
+all {file:/D:/abc/ScalaPractice2/}scalapractice2/products {file:/D:/abc/ScalaPractice2/}scalapractice2/test:products
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo C:/Users/Sonu/AppData/Local/Temp/sbt-structure.xml; session clear-all
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo C:/Users/Sonu/AppData/Local/Temp/sbt-structure1.xml; session clear-all
+all {file:/D:/IntellijWorkspace/ScalaPractice/}scalapractice/products {file:/D:/IntellijWorkspace/ScalaPractice/}scalapractice/test:products

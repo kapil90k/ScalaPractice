@@ -1,0 +1,1 @@
+D:\IntellijWorkspace\ScalaPractice\Public\Files\flatMapData.txt

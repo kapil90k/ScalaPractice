@@ -1,0 +1,63 @@
+kapil.mnnit90@gmail.com
+kapil90k
+Kapil@mnnit1
+
+
+git config --global user.name "Kapi Kumar"
+git config --global user.email "kapil.mnnit90@gmail.com"
+git config --list
+
+1. git bash on folder
+2. git init
+
+git status
+(all updated files will be in the red colour)
+
+git add. / git add <file name>
+
+again git status
+
+added files will become green, it means they are in the staging area.
+
+git commit -m "This is our first commit" ----> inside double quote is commit point
+git log
+
+
+make changes(add/delete/modify the files)
+git add .
+git status
+git commit -m "your messages"
+git diff(will show the modification)---> green colour data is updated.
+
+
+git diff --staged
+
+git mv first.txt 1.txt
+
+*****************bypassing staging****************************
+1. Make changes in file
+2. use -am option with commit command
+
+
+*****************CHECKING OUT FILE FROM GIT REPOSITORY**************************************
+
+git checkout -- filename
+
+*******************************************************************
+******************REMOVING FILE FROM STAGIN AREA*******************
+
+git status head <file name>
+
+
+
+*******************CREATING PUBLIC REPOSITORY FROM GITBASH**************************************
+
+-->create account on github.com-->create repository on github.com(public/private)-->go to gitbash-->create remote dir using below command
+
+git remote add temp https://github.com/kapil90k/Temperature.git
+
+-->pushing your data onto public repository by below command
+git push -u temp master
+
+
+==>> First commit in your local, then only you can be able to push in into public repository.

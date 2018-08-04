@@ -1,0 +1,4 @@
+100,kapil kumar,agra,uttar pradesh
+200,ajay sharma,shimla,himachal pradesh
+300,shubham singh,kota,rajsthan
+400,sarika kumari,delhi,new delhi

@@ -1,0 +1,2 @@
+If you want your MapReduce job to access any specific jar then you can set path by adding 
+DistributedCache.addFileToClassPath(new Path("pathToJar"), conf); in your MapReduce

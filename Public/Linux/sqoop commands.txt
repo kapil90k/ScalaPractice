@@ -1,0 +1,47 @@
+
+hbase org.apache.hadoop.hbase.mapreduce.ImportTsv -Dimporttsv.separator=”,” -Dimporttsv.columns=HBASE_ROW_KEY,cf tab4 /user/hadoop/simple1.txt
+
+LOAD DATA LOCAL INFILE '/home/edureka/Desktop/student.csv' INTO TABLE kapil.student FIELDS TERMINATED BY ','
+
+sqoop import  --connect jdbc:mysql//localhost/kapil/ --table SqlEmployee --username root -P -target-dir /SqoopImport
+
+sqoop list-databases --connect 'jdbc:mysql://localhost' --username root -P
+
+sqoop import --connect 'jdbc:mysql://localhost/kapil' --username root -P --table student --target-dir /importingdatasets/mysql --m 1
+(--m 1 option will enforce to run 1 reducer)
+
+sqoop import --connect 'jdbc:mysql://localhost/kapil' --username root -P --table posts --columns 'id','post_type','answercount' --target-dir /importingdatasets/mysql/posts2 --m 1
+
+sqoop import --connect jdbc:mysql://localhost/kapil --username root -P --table posts -m 1 --target-dir /importingdatasets/mysql/posts_cond/ --where "id in(16,17,18,19,20,21,22)"
+
+sqoop import --connect jdbc:mysql://localhost/kapil --username root -P --table student -m 1 --target-dir /importingdatasets/emp --incremental append --check-column id
+sqoop import --connect jdbc:mysql://localhost/kapil --username root -P --table student -m 1 --target-dir /importingdatasets/emp --append
+
+(directory should be same in this case. It doesn't delete previouse file,instead it create new file in the same directory).
+
+sqoop import-all-tables --connect jdbc:mysql://localhost/kapil --username root -P -m 1
+(default location will be /user/edureka)
+
+sqoop import-all-tables --connect jdbc:mysql://localhost/kapil --username root -P -m 1 --warehouse-dir '/Sqoop'
+(sqoop will create java file of all tables, develop the corresponding jar and run the mr job with this jar. The java file path is as
+/tmp/sqoop-edureka/compile/0a6599b75b61ea534909d5e61405fd3c). "--target-dir" option doesn't work with "import-all-tables" utility. Use "--warehouse-dir" option.
+
+sqoop import-all-tables --connect jdbc:mysql://localhost/kapil --username root -P -m 1 --warehouse-dir '/Sqoop' --exclude-tables SqlEmployee2,posts
+(excluding some tables)
+
+sqoop import-all-tables --connect jdbc:mysql://localhost/kapil --username root -P -m 1 --warehouse-dir '/Sqoop' --exclude-tables SqlEmployee2,posts --as-sequencefile
+
+
+
+
+HBASE
+sqoop import --connect jdbc:mysql://localhost/lol --table student --username root -P 
+--hbase-table student --column-family love --columns 'stu_name','girlfriend1','girlfriend2' 
+--hbase-row-key 'stu_name' --m 1 --hbase-create-table
+
+sqoop import --connect jdbc:mysql://localhost/lol --table student --username root -P 
+--hbase-table student --column-family love --columns 'stu_id','stu_name','girlfriend1','girlfriend2' 
+--m 1 --hbase-create-table
+[column 'stu_id' is mentioned under --columns option which is primary key in sql database so we don't need --hbase-row-key option]
+[if --columns option doesn't have primary key column then we willl have to mention normal column in --hbase-row-key option which will cause replicate the 
+duplicate data into hbase]
