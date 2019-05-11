@@ -35,8 +35,12 @@ TeSt
         * git add "your file"
         * git commit -m "commit message"
         * git push origin master
-         
-         
+
+If you get this error:   fatal: refusing to merge unrelated histories 
+  Then use this command:
+    git pull origin master --allow-unrelated-histories
+    
+    
 If by any chance you loose your passphrase, then below are easy way to regenerate it(tested):
 1)  ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 2)  Paste the content of id_rsa.pub file in your github account. Goto settings -> SSH and GPG Keys -> New SSH key
