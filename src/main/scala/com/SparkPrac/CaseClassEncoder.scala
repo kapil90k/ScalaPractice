@@ -25,6 +25,6 @@ object CaseClassEncoder extends App
   val schema=Encoders.product[Employee1].schema
   val empDf=spark.createDataFrame(empRdd,schema)
   empDf.show()
-  empDf.withColumn("Name",functions.explode(empDf.col("empName"))).show()
+  empDf.withColumn("Name",functions.explode(empDf.col("empName"))).show()   //explode created new row if column is of Array or Map type
   spark.stop()
 }

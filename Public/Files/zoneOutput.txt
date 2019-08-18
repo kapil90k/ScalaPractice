@@ -1,0 +1,576 @@
+ABC~1821,1533305752000,It is known as,519
+ABC~1821,1533304034000,It is known as,1584
+ABC~1821,1533305767000,most important domestic animal,1454
+ABC~1821,1533314806000,the holiest animal among all ,328
+ABC~1821,1533307330000,most important domestic animal,1484
+ABC~1821,1533310141000,the holiest animal among all ,637
+ABC~1821,1533306639000,Everyone gives respect ,805
+ABC~1821,1533303586000,It is known as,1532
+ABC~1821,1533300128000,It is known as,1162
+ABC~1821,1533309702000,It is known as,442
+ABC~1821,1533305742000,It is known as,1462
+ABC~1821,1533310350000,the holiest animal among all ,597
+XYZ~1512,1533310634000,the holiest animal among all ,1016
+XYZ~1512,1533304141000,the holiest animal among all ,1773
+XYZ~1512,1533311186000,Everyone gives respect ,1106
+XYZ~1512,1533300339000,most important domestic animal,735
+XYZ~1512,1533312515000,It is known as,596
+XYZ~1512,1533311571000,most important domestic animal,1667
+XYZ~1512,1533315354000,the holiest animal among all ,485
+XYZ~1512,1533313019000,It is known as,337
+XYZ~1512,1533308371000,It is known as,1727
+XYZ~1512,1533314601000,It is known as,1633
+XYZ~1512,1533308434000,most important domestic animal,689
+XYZ~1512,1533301633000,Everyone gives respect ,360
+ABC~1372,1533300468000,most important domestic animal,1936
+ABC~1372,1533307573000,Everyone gives respect ,1813
+ABC~1372,1533305378000,Everyone gives respect ,496
+ABC~1372,1533309098000,the holiest animal among all ,1568
+ABC~1372,1533308453000,It is known as,278
+ABC~1372,1533314990000,the holiest animal among all ,919
+ABC~1372,1533310046000,It is known as,762
+ABC~1372,1533306098000,the holiest animal among all ,476
+ABC~1372,1533299499000,the holiest animal among all ,291
+ABC~1372,1533305683000,Everyone gives respect ,1806
+ABC~1372,1533299711000,It is known as,561
+ABC~1372,1533315336000,Everyone gives respect ,462
+ABC~1656,1533299638000,the holiest animal among all ,1942
+ABC~1656,1533311564000,Everyone gives respect ,1672
+ABC~1656,1533316226000,the holiest animal among all ,1284
+ABC~1656,1533312876000,Everyone gives respect ,1405
+ABC~1656,1533310484000,most important domestic animal,1425
+ABC~1656,1533315030000,most important domestic animal,567
+ABC~1656,1533317337000,the holiest animal among all ,1474
+ABC~1656,1533316487000,most important domestic animal,531
+ABC~1656,1533313625000,the holiest animal among all ,1275
+ABC~1656,1533315272000,Everyone gives respect ,1742
+ABC~1656,1533305135000,It is known as,1987
+ABC~1656,1533315968000,It is known as,515
+ABC~1821,1533404389000,the holiest animal among all ,1894
+ABC~1821,1533396757000,It is known as,726
+ABC~1821,1533399011000,It is known as,1929
+ABC~1821,1533396284000,Everyone gives respect ,746
+ABC~1821,1533399841000,the holiest animal among all ,257
+ABC~1821,1533395083000,It is known as,1285
+ABC~1821,1533398860000,the holiest animal among all ,1850
+ABC~1821,1533392601000,Everyone gives respect ,488
+ABC~1821,1533394646000,the holiest animal among all ,864
+ABC~1821,1533394835000,the holiest animal among all ,801
+ABC~1821,1533403786000,Everyone gives respect ,459
+ABC~1821,1533402838000,the holiest animal among all ,816
+XYZ~1512,1533389536000,Everyone gives respect ,609
+XYZ~1512,1533396574000,most important domestic animal,497
+XYZ~1512,1533386319000,Everyone gives respect ,205
+XYZ~1512,1533400344000,the holiest animal among all ,1596
+XYZ~1512,1533390348000,the holiest animal among all ,1446
+XYZ~1512,1533395610000,the holiest animal among all ,1162
+XYZ~1512,1533403385000,It is known as,1196
+XYZ~1512,1533397372000,the holiest animal among all ,1667
+XYZ~1512,1533389840000,Everyone gives respect ,1143
+XYZ~1512,1533385864000,the holiest animal among all ,1909
+XYZ~1512,1533393419000,Everyone gives respect ,259
+XYZ~1512,1533401718000,most important domestic animal,1768
+ABC~1372,1533395288000,most important domestic animal,1239
+ABC~1372,1533397443000,most important domestic animal,234
+ABC~1372,1533397645000,Everyone gives respect ,603
+ABC~1372,1533399468000,the holiest animal among all ,441
+ABC~1372,1533389421000,the holiest animal among all ,1489
+ABC~1372,1533392373000,the holiest animal among all ,1297
+ABC~1372,1533394493000,most important domestic animal,884
+ABC~1372,1533399624000,It is known as,1493
+ABC~1372,1533401814000,It is known as,1296
+ABC~1372,1533385928000,most important domestic animal,1050
+ABC~1372,1533387966000,most important domestic animal,446
+ABC~1372,1533388566000,Everyone gives respect ,823
+ABC~1656,1533389663000,most important domestic animal,301
+ABC~1656,1533389141000,most important domestic animal,1959
+ABC~1656,1533400164000,Everyone gives respect ,1595
+ABC~1656,1533394158000,most important domestic animal,404
+ABC~1656,1533399548000,Everyone gives respect ,1888
+ABC~1656,1533394799000,Everyone gives respect ,1271
+ABC~1656,1533386469000,It is known as,456
+ABC~1656,1533402091000,It is known as,723
+ABC~1656,1533403626000,Everyone gives respect ,1928
+ABC~1656,1533401069000,the holiest animal among all ,742
+ABC~1656,1533401404000,Everyone gives respect ,1051
+ABC~1656,1533392643000,most important domestic animal,711
+ABC~1821,1533482298000,the holiest animal among all ,1838
+ABC~1821,1533479409000,most important domestic animal,1125
+ABC~1821,1533476332000,It is known as,1199
+ABC~1821,1533475132000,most important domestic animal,1237
+ABC~1821,1533474567000,It is known as,1509
+ABC~1821,1533482687000,It is known as,342
+ABC~1821,1533482223000,It is known as,1249
+ABC~1821,1533478173000,most important domestic animal,1958
+ABC~1821,1533487388000,most important domestic animal,790
+ABC~1821,1533473160000,Everyone gives respect ,816
+ABC~1821,1533478444000,It is known as,1637
+ABC~1821,1533478562000,It is known as,1617
+XYZ~1512,1533487461000,most important domestic animal,856
+XYZ~1512,1533489694000,It is known as,1507
+XYZ~1512,1533484935000,It is known as,229
+XYZ~1512,1533476864000,It is known as,1009
+XYZ~1512,1533490256000,Everyone gives respect ,258
+XYZ~1512,1533477415000,Everyone gives respect ,484
+XYZ~1512,1533481020000,It is known as,1554
+XYZ~1512,1533488977000,It is known as,264
+XYZ~1512,1533487895000,most important domestic animal,1510
+XYZ~1512,1533473107000,the holiest animal among all ,1766
+XYZ~1512,1533481814000,Everyone gives respect ,1546
+XYZ~1512,1533478220000,It is known as,752
+ABC~1372,1533482669000,the holiest animal among all ,1230
+ABC~1372,1533489272000,It is known as,996
+ABC~1372,1533481826000,It is known as,1657
+ABC~1372,1533490527000,the holiest animal among all ,396
+ABC~1372,1533490585000,It is known as,1898
+ABC~1372,1533474267000,most important domestic animal,1820
+ABC~1372,1533476549000,Everyone gives respect ,642
+ABC~1372,1533478239000,the holiest animal among all ,812
+ABC~1372,1533483711000,Everyone gives respect ,201
+ABC~1372,1533483353000,the holiest animal among all ,607
+ABC~1372,1533472490000,It is known as,777
+ABC~1372,1533474404000,most important domestic animal,554
+ABC~1656,1533488559000,most important domestic animal,1279
+ABC~1656,1533477894000,It is known as,831
+ABC~1656,1533478173000,most important domestic animal,1254
+ABC~1656,1533475795000,Everyone gives respect ,386
+ABC~1656,1533489308000,Everyone gives respect ,1249
+ABC~1656,1533486354000,the holiest animal among all ,905
+ABC~1656,1533489875000,It is known as,1993
+ABC~1656,1533488800000,the holiest animal among all ,607
+ABC~1656,1533490331000,It is known as,1820
+ABC~1656,1533479622000,It is known as,769
+ABC~1656,1533485172000,most important domestic animal,482
+ABC~1656,1533488500000,most important domestic animal,1792
+ABC~1821,1533568740000,Everyone gives respect ,508
+ABC~1821,1533568595000,most important domestic animal,1266
+ABC~1821,1533571421000,most important domestic animal,908
+ABC~1821,1533560054000,It is known as,385
+ABC~1821,1533573543000,Everyone gives respect ,820
+ABC~1821,1533564326000,Everyone gives respect ,771
+ABC~1821,1533565113000,Everyone gives respect ,1360
+ABC~1821,1533571322000,the holiest animal among all ,1245
+ABC~1821,1533570960000,It is known as,1460
+ABC~1821,1533558870000,the holiest animal among all ,360
+ABC~1821,1533574212000,the holiest animal among all ,1730
+ABC~1821,1533561925000,the holiest animal among all ,946
+XYZ~1512,1533568316000,the holiest animal among all ,996
+XYZ~1512,1533561056000,Everyone gives respect ,374
+XYZ~1512,1533576011000,It is known as,1815
+XYZ~1512,1533560260000,the holiest animal among all ,1696
+XYZ~1512,1533569608000,most important domestic animal,1525
+XYZ~1512,1533567693000,the holiest animal among all ,1896
+XYZ~1512,1533564118000,most important domestic animal,1785
+XYZ~1512,1533562135000,the holiest animal among all ,1957
+XYZ~1512,1533564546000,most important domestic animal,648
+XYZ~1512,1533576710000,Everyone gives respect ,1022
+XYZ~1512,1533572812000,It is known as,420
+XYZ~1512,1533568343000,Everyone gives respect ,1003
+ABC~1372,1533575465000,the holiest animal among all ,1172
+ABC~1372,1533572850000,Everyone gives respect ,205
+ABC~1372,1533560229000,the holiest animal among all ,430
+ABC~1372,1533562606000,most important domestic animal,734
+ABC~1372,1533561049000,most important domestic animal,1448
+ABC~1372,1533562504000,Everyone gives respect ,311
+ABC~1372,1533563734000,most important domestic animal,632
+ABC~1372,1533574816000,Everyone gives respect ,892
+ABC~1372,1533561600000,most important domestic animal,840
+ABC~1372,1533566575000,Everyone gives respect ,355
+ABC~1372,1533564994000,most important domestic animal,1352
+ABC~1372,1533560314000,It is known as,1322
+ABC~1656,1533560641000,Everyone gives respect ,478
+ABC~1656,1533560181000,the holiest animal among all ,1266
+ABC~1656,1533560261000,most important domestic animal,1616
+ABC~1656,1533565172000,It is known as,1122
+ABC~1656,1533564910000,Everyone gives respect ,1258
+ABC~1656,1533563691000,most important domestic animal,816
+ABC~1656,1533568642000,the holiest animal among all ,1980
+ABC~1656,1533576535000,the holiest animal among all ,1930
+ABC~1656,1533575850000,Everyone gives respect ,1131
+ABC~1656,1533571592000,Everyone gives respect ,912
+ABC~1656,1533560251000,the holiest animal among all ,545
+ABC~1656,1533572308000,Everyone gives respect ,1162
+ABC~1821,1533656734000,the holiest animal among all ,1594
+ABC~1821,1533662902000,the holiest animal among all ,837
+ABC~1821,1533663362000,Everyone gives respect ,953
+ABC~1821,1533654519000,most important domestic animal,1856
+ABC~1821,1533652506000,It is known as,1583
+ABC~1821,1533660219000,Everyone gives respect ,1386
+ABC~1821,1533648957000,the holiest animal among all ,282
+ABC~1821,1533646735000,the holiest animal among all ,1340
+ABC~1821,1533658209000,It is known as,1819
+ABC~1821,1533661560000,the holiest animal among all ,685
+ABC~1821,1533649019000,Everyone gives respect ,560
+ABC~1821,1533660946000,the holiest animal among all ,315
+XYZ~1512,1533661331000,Everyone gives respect ,1239
+XYZ~1512,1533650507000,the holiest animal among all ,1283
+XYZ~1512,1533653570000,most important domestic animal,1395
+XYZ~1512,1533656616000,Everyone gives respect ,642
+XYZ~1512,1533657589000,most important domestic animal,1771
+XYZ~1512,1533658890000,It is known as,824
+XYZ~1512,1533659019000,Everyone gives respect ,1308
+XYZ~1512,1533654465000,the holiest animal among all ,1888
+XYZ~1512,1533650719000,the holiest animal among all ,1523
+XYZ~1512,1533662706000,It is known as,1207
+XYZ~1512,1533651508000,It is known as,1876
+XYZ~1512,1533646185000,most important domestic animal,604
+ABC~1372,1533654689000,Everyone gives respect ,1758
+ABC~1372,1533656531000,the holiest animal among all ,206
+ABC~1372,1533654049000,Everyone gives respect ,519
+ABC~1372,1533652358000,Everyone gives respect ,1170
+ABC~1372,1533646562000,It is known as,1995
+ABC~1372,1533652316000,Everyone gives respect ,978
+ABC~1372,1533645608000,Everyone gives respect ,1152
+ABC~1372,1533646967000,the holiest animal among all ,901
+ABC~1372,1533653848000,It is known as,931
+ABC~1372,1533652691000,most important domestic animal,1511
+ABC~1372,1533648062000,the holiest animal among all ,371
+ABC~1372,1533646895000,the holiest animal among all ,890
+ABC~1656,1533653240000,most important domestic animal,1532
+ABC~1656,1533649644000,most important domestic animal,1906
+ABC~1656,1533656522000,Everyone gives respect ,1786
+ABC~1656,1533659000000,It is known as,1660
+ABC~1656,1533660867000,the holiest animal among all ,497
+ABC~1656,1533657101000,It is known as,812
+ABC~1656,1533651609000,It is known as,256
+ABC~1656,1533653239000,It is known as,726
+ABC~1656,1533656787000,It is known as,1521
+ABC~1656,1533645382000,Everyone gives respect ,1490
+ABC~1656,1533658689000,most important domestic animal,1764
+ABC~1656,1533651257000,the holiest animal among all ,396
+ABC~1821,1533750048000,Everyone gives respect ,1977
+ABC~1821,1533736123000,Everyone gives respect ,1041
+ABC~1821,1533731401000,It is known as,1160
+ABC~1821,1533740088000,Everyone gives respect ,1771
+ABC~1821,1533747398000,the holiest animal among all ,1431
+ABC~1821,1533748311000,the holiest animal among all ,1724
+ABC~1821,1533735905000,the holiest animal among all ,1861
+ABC~1821,1533744105000,Everyone gives respect ,1177
+ABC~1821,1533750120000,Everyone gives respect ,567
+ABC~1821,1533742674000,It is known as,1379
+ABC~1821,1533742132000,the holiest animal among all ,1895
+ABC~1821,1533736875000,most important domestic animal,1262
+XYZ~1512,1533744649000,Everyone gives respect ,1661
+XYZ~1512,1533732695000,It is known as,319
+XYZ~1512,1533746645000,most important domestic animal,1245
+XYZ~1512,1533735802000,It is known as,391
+XYZ~1512,1533739104000,Everyone gives respect ,1798
+XYZ~1512,1533732803000,the holiest animal among all ,1349
+XYZ~1512,1533743542000,most important domestic animal,661
+XYZ~1512,1533736971000,Everyone gives respect ,1259
+XYZ~1512,1533741811000,most important domestic animal,294
+XYZ~1512,1533732919000,It is known as,404
+XYZ~1512,1533750102000,most important domestic animal,1750
+XYZ~1512,1533743069000,It is known as,940
+ABC~1372,1533740801000,most important domestic animal,1214
+ABC~1372,1533742230000,the holiest animal among all ,906
+ABC~1372,1533742592000,It is known as,1236
+ABC~1372,1533738126000,most important domestic animal,1573
+ABC~1372,1533749695000,It is known as,1017
+ABC~1372,1533743522000,the holiest animal among all ,1128
+ABC~1372,1533750023000,It is known as,1852
+ABC~1372,1533740497000,the holiest animal among all ,212
+ABC~1372,1533743163000,Everyone gives respect ,360
+ABC~1372,1533740089000,Everyone gives respect ,1524
+ABC~1372,1533736263000,most important domestic animal,1774
+ABC~1372,1533733844000,the holiest animal among all ,1738
+ABC~1656,1533735388000,most important domestic animal,1155
+ABC~1656,1533742812000,most important domestic animal,1816
+ABC~1656,1533744749000,Everyone gives respect ,1901
+ABC~1656,1533744966000,It is known as,396
+ABC~1656,1533734575000,Everyone gives respect ,1301
+ABC~1656,1533740344000,most important domestic animal,1004
+ABC~1656,1533745295000,It is known as,1786
+ABC~1656,1533734818000,most important domestic animal,704
+ABC~1656,1533733431000,It is known as,1406
+ABC~1656,1533735255000,most important domestic animal,1204
+ABC~1656,1533736818000,Everyone gives respect ,875
+ABC~1656,1533748765000,most important domestic animal,1455
+ABC~1821,1533829079000,Everyone gives respect ,206
+ABC~1821,1533822334000,Everyone gives respect ,231
+ABC~1821,1533834539000,the holiest animal among all ,557
+ABC~1821,1533821456000,the holiest animal among all ,800
+ABC~1821,1533820852000,It is known as,1555
+ABC~1821,1533826349000,most important domestic animal,336
+ABC~1821,1533824054000,It is known as,589
+ABC~1821,1533827958000,the holiest animal among all ,1168
+ABC~1821,1533830916000,the holiest animal among all ,1330
+ABC~1821,1533820259000,Everyone gives respect ,516
+ABC~1821,1533834892000,most important domestic animal,1999
+ABC~1821,1533833548000,the holiest animal among all ,596
+XYZ~1512,1533821664000,Everyone gives respect ,244
+XYZ~1512,1533822311000,It is known as,1968
+XYZ~1512,1533827903000,most important domestic animal,707
+XYZ~1512,1533831877000,It is known as,1655
+XYZ~1512,1533819674000,It is known as,519
+XYZ~1512,1533836658000,It is known as,1020
+XYZ~1512,1533833872000,the holiest animal among all ,1523
+XYZ~1512,1533833639000,Everyone gives respect ,1936
+XYZ~1512,1533831958000,It is known as,194
+XYZ~1512,1533819431000,the holiest animal among all ,1360
+XYZ~1512,1533829080000,most important domestic animal,232
+XYZ~1512,1533817843000,Everyone gives respect ,635
+ABC~1372,1533826903000,Everyone gives respect ,1741
+ABC~1372,1533818319000,most important domestic animal,1607
+ABC~1372,1533834602000,It is known as,1200
+ABC~1372,1533821940000,It is known as,863
+ABC~1372,1533827426000,most important domestic animal,1002
+ABC~1372,1533829295000,the holiest animal among all ,237
+ABC~1372,1533835321000,the holiest animal among all ,417
+ABC~1372,1533836279000,It is known as,579
+ABC~1372,1533823862000,the holiest animal among all ,1137
+ABC~1372,1533834737000,It is known as,1083
+ABC~1372,1533824987000,Everyone gives respect ,738
+ABC~1372,1533828457000,It is known as,1527
+ABC~1656,1533826557000,It is known as,1300
+ABC~1656,1533819049000,most important domestic animal,1293
+ABC~1656,1533833181000,Everyone gives respect ,1445
+ABC~1656,1533825177000,most important domestic animal,331
+ABC~1656,1533823653000,most important domestic animal,468
+ABC~1656,1533817923000,It is known as,1950
+ABC~1656,1533836595000,It is known as,273
+ABC~1656,1533829420000,It is known as,1478
+ABC~1656,1533822930000,It is known as,199
+ABC~1656,1533822391000,Everyone gives respect ,1445
+ABC~1656,1533834156000,Everyone gives respect ,884
+ABC~1656,1533829755000,Everyone gives respect ,1581
+ABC~1821,1533922159000,It is known as,766
+ABC~1821,1533904509000,the holiest animal among all ,1148
+ABC~1821,1533915561000,the holiest animal among all ,1851
+ABC~1821,1533917963000,the holiest animal among all ,1623
+ABC~1821,1533904568000,the holiest animal among all ,285
+ABC~1821,1533914408000,most important domestic animal,1768
+ABC~1821,1533921074000,It is known as,850
+ABC~1821,1533913511000,most important domestic animal,835
+ABC~1821,1533910374000,most important domestic animal,837
+ABC~1821,1533920614000,most important domestic animal,921
+ABC~1821,1533915244000,the holiest animal among all ,1670
+ABC~1821,1533916265000,It is known as,1157
+XYZ~1512,1533912171000,It is known as,308
+XYZ~1512,1533916604000,the holiest animal among all ,1490
+XYZ~1512,1533919275000,the holiest animal among all ,582
+XYZ~1512,1533921315000,most important domestic animal,1252
+XYZ~1512,1533906770000,the holiest animal among all ,1671
+XYZ~1512,1533911164000,the holiest animal among all ,1194
+XYZ~1512,1533914546000,Everyone gives respect ,1066
+XYZ~1512,1533910494000,the holiest animal among all ,1702
+XYZ~1512,1533905681000,Everyone gives respect ,1118
+XYZ~1512,1533904804000,the holiest animal among all ,1257
+XYZ~1512,1533918122000,It is known as,539
+XYZ~1512,1533904741000,the holiest animal among all ,717
+ABC~1372,1533907779000,Everyone gives respect ,1864
+ABC~1372,1533904538000,Everyone gives respect ,1181
+ABC~1372,1533907009000,the holiest animal among all ,875
+ABC~1372,1533919336000,It is known as,1725
+ABC~1372,1533916292000,the holiest animal among all ,1747
+ABC~1372,1533922207000,It is known as,1288
+ABC~1372,1533920207000,It is known as,1753
+ABC~1372,1533906866000,most important domestic animal,998
+ABC~1372,1533917133000,the holiest animal among all ,1981
+ABC~1372,1533917675000,most important domestic animal,1076
+ABC~1372,1533915969000,the holiest animal among all ,610
+ABC~1372,1533907537000,It is known as,1928
+ABC~1656,1533905610000,It is known as,1282
+ABC~1656,1533918158000,Everyone gives respect ,1652
+ABC~1656,1533918087000,most important domestic animal,1205
+ABC~1656,1533916848000,It is known as,1231
+ABC~1656,1533907085000,It is known as,1805
+ABC~1656,1533913181000,most important domestic animal,1822
+ABC~1656,1533908548000,most important domestic animal,852
+ABC~1656,1533904710000,Everyone gives respect ,765
+ABC~1656,1533919247000,most important domestic animal,1509
+ABC~1656,1533909305000,most important domestic animal,330
+ABC~1656,1533920312000,It is known as,987
+ABC~1656,1533914372000,most important domestic animal,799
+ABC~1821,1533999579000,Everyone gives respect ,661
+ABC~1821,1534006708000,the holiest animal among all ,1257
+ABC~1821,1533997391000,It is known as,1559
+ABC~1821,1533990753000,It is known as,241
+ABC~1821,1533993377000,It is known as,1041
+ABC~1821,1534000405000,Everyone gives respect ,580
+ABC~1821,1534008929000,It is known as,923
+ABC~1821,1533995703000,most important domestic animal,1751
+ABC~1821,1533992467000,Everyone gives respect ,1578
+ABC~1821,1534007298000,It is known as,440
+ABC~1821,1534001085000,Everyone gives respect ,1904
+ABC~1821,1534002292000,It is known as,1170
+XYZ~1512,1533999498000,most important domestic animal,1356
+XYZ~1512,1533990852000,most important domestic animal,1940
+XYZ~1512,1534005901000,It is known as,926
+XYZ~1512,1534001961000,the holiest animal among all ,373
+XYZ~1512,1533998363000,Everyone gives respect ,958
+XYZ~1512,1534005143000,most important domestic animal,1271
+XYZ~1512,1533993347000,It is known as,1278
+XYZ~1512,1534004765000,Everyone gives respect ,1772
+XYZ~1512,1534004051000,most important domestic animal,694
+XYZ~1512,1534000418000,It is known as,775
+XYZ~1512,1534009281000,the holiest animal among all ,1682
+XYZ~1512,1533995512000,the holiest animal among all ,940
+ABC~1372,1534001882000,Everyone gives respect ,1265
+ABC~1372,1533995935000,most important domestic animal,1712
+ABC~1372,1533998916000,most important domestic animal,888
+ABC~1372,1534003650000,most important domestic animal,1257
+ABC~1372,1534009318000,most important domestic animal,1503
+ABC~1372,1534008954000,Everyone gives respect ,559
+ABC~1372,1533991772000,the holiest animal among all ,1617
+ABC~1372,1534002386000,most important domestic animal,382
+ABC~1372,1533991171000,most important domestic animal,1654
+ABC~1372,1534006801000,the holiest animal among all ,982
+ABC~1372,1534001849000,It is known as,379
+ABC~1372,1533993903000,It is known as,546
+ABC~1656,1534002149000,most important domestic animal,1683
+ABC~1656,1534000115000,It is known as,1583
+ABC~1656,1533990664000,most important domestic animal,1052
+ABC~1656,1534006005000,most important domestic animal,345
+ABC~1656,1534005022000,Everyone gives respect ,347
+ABC~1656,1533991831000,most important domestic animal,1547
+ABC~1656,1534001185000,the holiest animal among all ,380
+ABC~1656,1533998038000,It is known as,1983
+ABC~1656,1534004319000,It is known as,1300
+ABC~1656,1534001462000,Everyone gives respect ,606
+ABC~1656,1533991697000,It is known as,1248
+ABC~1656,1533999291000,the holiest animal among all ,1477
+ABC~1821,1534092882000,Everyone gives respect ,1088
+ABC~1821,1534077323000,Everyone gives respect ,1172
+ABC~1821,1534085133000,the holiest animal among all ,1089
+ABC~1821,1534093018000,Everyone gives respect ,873
+ABC~1821,1534077809000,It is known as,1056
+ABC~1821,1534093474000,the holiest animal among all ,920
+ABC~1821,1534080615000,It is known as,1417
+ABC~1821,1534095555000,the holiest animal among all ,1455
+ABC~1821,1534090787000,the holiest animal among all ,747
+ABC~1821,1534085060000,It is known as,1418
+ABC~1821,1534094879000,It is known as,1502
+ABC~1821,1534091125000,It is known as,1680
+XYZ~1512,1534084936000,the holiest animal among all ,229
+XYZ~1512,1534078910000,most important domestic animal,372
+XYZ~1512,1534080184000,the holiest animal among all ,1916
+XYZ~1512,1534095520000,most important domestic animal,626
+XYZ~1512,1534081484000,It is known as,889
+XYZ~1512,1534078474000,most important domestic animal,1292
+XYZ~1512,1534092413000,most important domestic animal,551
+XYZ~1512,1534094240000,most important domestic animal,356
+XYZ~1512,1534084870000,most important domestic animal,1818
+XYZ~1512,1534083716000,most important domestic animal,1319
+XYZ~1512,1534078438000,It is known as,1373
+XYZ~1512,1534083728000,the holiest animal among all ,996
+ABC~1372,1534090990000,the holiest animal among all ,1985
+ABC~1372,1534088536000,the holiest animal among all ,1307
+ABC~1372,1534076942000,most important domestic animal,689
+ABC~1372,1534085542000,It is known as,193
+ABC~1372,1534088224000,Everyone gives respect ,876
+ABC~1372,1534081732000,the holiest animal among all ,581
+ABC~1372,1534090262000,Everyone gives respect ,1484
+ABC~1372,1534093683000,the holiest animal among all ,1040
+ABC~1372,1534085208000,It is known as,224
+ABC~1372,1534077140000,the holiest animal among all ,479
+ABC~1372,1534080815000,It is known as,1570
+ABC~1372,1534084692000,most important domestic animal,425
+ABC~1656,1534089533000,most important domestic animal,400
+ABC~1656,1534087348000,Everyone gives respect ,1437
+ABC~1656,1534087906000,the holiest animal among all ,1613
+ABC~1656,1534077237000,the holiest animal among all ,1520
+ABC~1656,1534093916000,It is known as,1953
+ABC~1656,1534087513000,It is known as,1633
+ABC~1656,1534080574000,It is known as,942
+ABC~1656,1534085400000,It is known as,630
+ABC~1656,1534095911000,Everyone gives respect ,554
+ABC~1656,1534080575000,the holiest animal among all ,1517
+ABC~1656,1534092830000,Everyone gives respect ,1119
+ABC~1656,1534085933000,most important domestic animal,679
+ABC~1821,1534171389000,It is known as,1655
+ABC~1821,1534168121000,most important domestic animal,1341
+ABC~1821,1534172019000,most important domestic animal,651
+ABC~1821,1534169480000,It is known as,1922
+ABC~1821,1534180438000,Everyone gives respect ,530
+ABC~1821,1534172988000,Everyone gives respect ,1772
+ABC~1821,1534179750000,It is known as,186
+ABC~1821,1534174958000,It is known as,1202
+ABC~1821,1534180853000,most important domestic animal,1936
+ABC~1821,1534180671000,Everyone gives respect ,1490
+ABC~1821,1534180631000,the holiest animal among all ,582
+ABC~1821,1534177538000,most important domestic animal,412
+XYZ~1512,1534170149000,Everyone gives respect ,775
+XYZ~1512,1534169407000,Everyone gives respect ,774
+XYZ~1512,1534171122000,the holiest animal among all ,1186
+XYZ~1512,1534177376000,It is known as,1246
+XYZ~1512,1534163619000,Everyone gives respect ,758
+XYZ~1512,1534177345000,most important domestic animal,1906
+XYZ~1512,1534175274000,most important domestic animal,789
+XYZ~1512,1534170229000,Everyone gives respect ,1482
+XYZ~1512,1534165497000,most important domestic animal,431
+XYZ~1512,1534170191000,most important domestic animal,818
+XYZ~1512,1534169794000,the holiest animal among all ,1669
+XYZ~1512,1534165549000,It is known as,1251
+ABC~1372,1534175763000,It is known as,857
+ABC~1372,1534178508000,most important domestic animal,614
+ABC~1372,1534171899000,most important domestic animal,384
+ABC~1372,1534175345000,the holiest animal among all ,867
+ABC~1372,1534177689000,Everyone gives respect ,362
+ABC~1372,1534172771000,most important domestic animal,266
+ABC~1372,1534171456000,It is known as,1669
+ABC~1372,1534176075000,Everyone gives respect ,859
+ABC~1372,1534164966000,Everyone gives respect ,439
+ABC~1372,1534169425000,Everyone gives respect ,859
+ABC~1372,1534175799000,It is known as,742
+ABC~1372,1534181443000,most important domestic animal,557
+ABC~1656,1534175512000,It is known as,287
+ABC~1656,1534180853000,the holiest animal among all ,720
+ABC~1656,1534176988000,It is known as,576
+ABC~1656,1534180983000,Everyone gives respect ,1364
+ABC~1656,1534179190000,most important domestic animal,836
+ABC~1656,1534173092000,the holiest animal among all ,1952
+ABC~1656,1534179121000,most important domestic animal,1545
+ABC~1656,1534170492000,It is known as,808
+ABC~1656,1534163822000,It is known as,1216
+ABC~1656,1534168389000,the holiest animal among all ,980
+ABC~1656,1534173840000,Everyone gives respect ,1711
+ABC~1656,1534180157000,Everyone gives respect ,480
+ABC~1821,1534267539000,most important domestic animal,1926
+ABC~1821,1534255759000,Everyone gives respect ,1954
+ABC~1821,1534256351000,the holiest animal among all ,1563
+ABC~1821,1534251187000,most important domestic animal,1994
+ABC~1821,1534266136000,It is known as,1158
+ABC~1821,1534258019000,the holiest animal among all ,287
+ABC~1821,1534251889000,most important domestic animal,996
+ABC~1821,1534266830000,It is known as,745
+ABC~1821,1534254745000,most important domestic animal,1556
+ABC~1821,1534265537000,the holiest animal among all ,265
+ABC~1821,1534252554000,Everyone gives respect ,1649
+ABC~1821,1534267092000,It is known as,865
+XYZ~1512,1534255883000,the holiest animal among all ,1666
+XYZ~1512,1534261503000,most important domestic animal,582
+XYZ~1512,1534263512000,the holiest animal among all ,1175
+XYZ~1512,1534264113000,It is known as,1691
+XYZ~1512,1534266850000,the holiest animal among all ,1720
+XYZ~1512,1534262930000,Everyone gives respect ,998
+XYZ~1512,1534261801000,It is known as,1901
+XYZ~1512,1534256000000,It is known as,1110
+XYZ~1512,1534268099000,It is known as,1833
+XYZ~1512,1534253959000,It is known as,1650
+XYZ~1512,1534251239000,the holiest animal among all ,1650
+XYZ~1512,1534267248000,the holiest animal among all ,724
+ABC~1372,1534260283000,It is known as,1244
+ABC~1372,1534266866000,It is known as,1970
+ABC~1372,1534268040000,It is known as,1164
+ABC~1372,1534266287000,Everyone gives respect ,1481
+ABC~1372,1534258820000,It is known as,528
+ABC~1372,1534259160000,the holiest animal among all ,1861
+ABC~1372,1534255102000,It is known as,860
+ABC~1372,1534265613000,most important domestic animal,642
+ABC~1372,1534264090000,most important domestic animal,462
+ABC~1372,1534265850000,most important domestic animal,308
+ABC~1372,1534260633000,the holiest animal among all ,873
+ABC~1372,1534259865000,It is known as,999
+ABC~1656,1534253210000,Everyone gives respect ,1063
+ABC~1656,1534253297000,Everyone gives respect ,1675
+ABC~1656,1534261637000,most important domestic animal,1437
+ABC~1656,1534264458000,the holiest animal among all ,926
+ABC~1656,1534265626000,It is known as,1659
+ABC~1656,1534260306000,most important domestic animal,1788
+ABC~1656,1534262069000,most important domestic animal,1817
+ABC~1656,1534260784000,most important domestic animal,1454
+ABC~1656,1534259865000,It is known as,1595
+ABC~1656,1534256996000,It is known as,450
+ABC~1656,1534253599000,the holiest animal among all ,966
+ABC~1656,1534251202000,most important domestic animal,786

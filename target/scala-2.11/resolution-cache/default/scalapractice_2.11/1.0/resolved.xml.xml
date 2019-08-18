@@ -4,7 +4,7 @@
 		module="scalapractice_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20180805004515"
+		publication="20180805172839"
 	>
 		<description>
 		ScalaPractice
@@ -32,8 +32,12 @@
 	<dependencies>
 		<dependency org="org.scala-lang" name="scala-compiler" rev="2.11.8" conf="scala-tool->default,optional(default);compile->default(compile)"/>
 		<dependency org="org.scala-lang" name="scala-library" rev="2.11.8" conf="scala-tool->default,optional(default);compile->default(compile)"/>
+		<dependency org="org.apache.kafka" name="kafka_2.11" rev="1.0.0" conf="compile->default(compile)"/>
 		<dependency org="org.apache.spark" name="spark-core_2.11" rev="2.2.0" conf="compile->default(compile)"/>
 		<dependency org="org.apache.spark" name="spark-sql_2.11" rev="2.2.0" conf="compile->default(compile)"/>
+		<dependency org="org.apache.spark" name="spark-streaming_2.11" rev="2.2.0" conf="provided->default(compile)"/>
+		<dependency org="org.apache.spark" name="spark-streaming-kafka-0-10_2.11" rev="2.2.0" conf="compile->default(compile)"/>
+		<dependency org="org.apache.spark" name="spark-sql-kafka-0-10_2.11" rev="2.2.0" conf="compile->default(compile)"/>
 		<dependency org="org.apache.hbase" name="hbase-client" rev="1.2.0" conf="compile->default(compile)"/>
 		<dependency org="org.apache.hbase" name="hbase-server" rev="1.2.0" conf="compile->default(compile)"/>
 		<dependency org="org.apache.hbase" name="hbase-common" rev="1.2.0" conf="compile->default(compile)"/>
@@ -41,6 +45,11 @@
 		<dependency org="org.apache.hbase" name="hbase" rev="1.2.0" conf="compile->default(compile)">
 			<artifact name="hbase" type="pom" ext="pom" conf="pom"/>
 		</dependency>
+		<dependency org="org.json" name="json" rev="20090211" conf="compile->default(compile)"/>
+		<dependency org="mysql" name="mysql-connector-java" rev="5.1.41" conf="compile->default(compile)"/>
+		<dependency org="joda-time" name="joda-time" rev="2.9.9" conf="compile->default(compile)"/>
+		<dependency org="org.apache.logging.log4j" name="log4j-core" rev="2.11.0" conf="compile->default(compile)"/>
 		<dependency org="org.scala-lang" name="scala-reflect" rev="2.11.8" conf="compile->default(compile)"/>
+		<dependency org="org.fluttercode.datafactory" name="datafactory" rev="0.8" conf="compile->default(compile)"/>
 	</dependencies>
 </ivy-module>

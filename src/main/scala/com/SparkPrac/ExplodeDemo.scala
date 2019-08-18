@@ -1,9 +1,7 @@
 package com.SparkPrac
 
-import org.apache.spark.sql.types.{IntegerType, StringType, StructType}
-import org.apache.spark.sql.{Row, SparkSession}
-
-import scala.collection.mutable.ListBuffer
+import org.apache.spark.sql.types.{ArrayType, IntegerType, StringType, StructType}
+import org.apache.spark.sql.{Row, SparkSession, functions}
 ;
 
 object ExplodeDemo extends App
@@ -12,35 +10,32 @@ object ExplodeDemo extends App
   val sc=spark.sparkContext
   val file=sc.textFile("/home/cloudera/datasets/flatMapData.txt")
 
-  val empRdd=file.flatMap(myCustFlat)
-
-  def myCustFlat(line:String):List[Row]=
+  val empRdd=file.map(line=>
   {
     val splits=line.split(",")
-    val listB=ListBuffer.empty[Row]
     val id=splits(0).toInt
     val name=splits(1).split(" ")
     val city=splits(2)
     val state=splits(3)
-    for(i<-0 to name.size-1)
-      {
-        listB+=Row(id,name(i),city,state)
-      }
-    listB.toList
-  }
+    Row(id,name,city,state)
+  })
 
   println("Printing RDD")
   empRdd.foreach(println)
 
   val schema=new StructType()
     .add("ID",IntegerType)
-    .add("Name",StringType)
+    .add("Name",ArrayType(StringType))
     .add("City",StringType)
     .add("State",StringType)
 
   val empDf=spark.createDataFrame(empRdd,schema)
-  println("Printing DF")
+  println("Printing dataframe without exploding--->")
   empDf.show()
+
+  //Exploding column Name----->
+  println("Printing dataframe with exploding column--->")
+  empDf.withColumn("Name",functions.explode(empDf.col("Name"))).show()
 
   spark.stop()
 }

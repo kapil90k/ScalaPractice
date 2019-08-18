@@ -1,7 +1,7 @@
 package com.SparkPrac
 
 import org.apache.spark.rdd.RDD
-import org.apache.spark.sql.SparkSession
+import org.apache.spark.sql.{Row, SparkSession}
 ;
 
 object DivideRdd extends App
@@ -11,6 +11,20 @@ object DivideRdd extends App
   val list=List(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16)
   val listRdd=sc.parallelize(list)
 
+import spark.implicits._
+  val seqdf= Seq(
+  (100,"Kapil Kumar","Bangalore","Karnataka"),
+  (200,"Sonu Singh","Agra","Uttar Pradesh")
+).toDF("Id","Name","City","State")
+
+  println("Printing sewdf")
+  seqdf.select("Id","Name").show()
+
+  val tupleDf = seqdf.map{
+    case Row(id:Int,name:String,city:String,state:String) =>(id,name,city,state)
+  }
+  println("Printing tuple DF")
+  tupleDf.show()
   val filteredRdd=listRdd.partitionBy(_ % 2 == 0)
 
   val evenRdd=filteredRdd._1

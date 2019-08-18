@@ -10,7 +10,7 @@ object CaseClassDF extends App
 {
   val spark=SparkSession.builder().master("local").getOrCreate()
   val sc=spark.sparkContext
-  val file=sc.textFile("D:\\IntellijWorkspace\\ScalaPractice\\src\\main\\ScalaPrac\\com\\flatMapData.txt")
+  val file=sc.textFile("D:\\IntellijWorkspace\\ScalaPractice\\Public\\Files\\flatMapData.txt")
 
   val empRdd=file.map(line=>
   {
